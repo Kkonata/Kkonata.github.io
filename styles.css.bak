@@ -38,3 +38,7 @@ nav {
 	border-bottom: solid 1px black;
 }
 
+body {
+	background-color: #D3FFA2;
+}
+

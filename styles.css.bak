@@ -8,7 +8,6 @@
 
 #uploadbutton {
 	margin: auto;
-	display: block;
 }
 
 #sitelogo {

@@ -10,18 +10,18 @@
 		<div class="contentcontainer">
 			<header>
 				<nav>
-					<h1 id="sitelogo">Amongus</h1>
-					<ul>
+					<h1 id="sitelogo">Sharing Site :)</h1>
+					<ul class="loginbar">
 						<a href="login.php">Login</a>
 					</ul>
 				</nav>
 			</header>
 			
-			<div class="centered">
+			<div class="centercolumn">
 				<form>
+					<img class="centered image" src="images/picture.png">
 					<input id="uploadbutton" type="submit" value="Upload">
 				</form>
 			</div>
-		</div>
 	</body>
 </html>

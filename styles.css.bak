@@ -1,19 +1,40 @@
 .contentcontainer {
 }
 
-.centered {
+.centercolumn {
+	padding-top: 5em;
 	width: 50%;
 	margin: auto;
 }
 
-#uploadbutton {
+.centeredimage {
+	display: block;
 	margin: auto;
 }
 
+.loginbar {
+	float: right;
+	padding: 1.5em;
+	border-left: solid 1 black;
+}
+
+#uploadbutton {
+	margin: auto;
+	display: block;
+}
+
 #sitelogo {
+	float: left;
+	padding: 0.45em;
+	font-size: 2em;
+	border-right: solid 1px black;
 }
 
 nav {
+	position: fixed;
 	width: 100%;
+	background-color: #b7ff66;
+	overflow: hidden;
+	border-bottom: solid 1px black;
 }
 
